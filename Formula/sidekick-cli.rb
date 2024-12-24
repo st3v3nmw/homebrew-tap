@@ -1,4 +1,4 @@
-class Sidekick < Formula
+class SidekickCli < Formula
     desc "A CLI tool that understands your natural language commands and executes them for you"
     homepage "https://github.com/stephen/sidekick"
     version "0.1.0"
