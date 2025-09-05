@@ -1,7 +1,7 @@
 class Sourcerer < Formula
     desc "MCP for semantic code search & navigation that reduces token waste "
     homepage "https://github.com/st3v3nmw/sourcerer-mcp"
-    url "https://github.com/st3v3nmw/sourcerer-mcp.git", tag: "v0.5.0"
+    url "https://github.com/st3v3nmw/sourcerer-mcp.git", tag: "v0.5.1"
 
     depends_on "go" => :build
 
